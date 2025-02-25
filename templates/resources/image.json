@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bocchi",
+        "src": "resources/bocchi.jpg"
+    },
+    {
+        "name": "hill",
+        "src": "resources/hill.jpg"
+    },
+    {
+        "name": "sunset",
+        "src": "resources/sunset.jpg"
+    }
+]
